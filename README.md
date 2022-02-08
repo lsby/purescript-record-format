@@ -17,3 +17,7 @@ in  upstream
           "ls-v1.0.0"
       }
 ```
+
+```
+spago install record-format
+```
