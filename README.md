@@ -1,23 +1,8 @@
 # purescript-record-format
 
-```
-in  upstream
-  with record-format =
-      { dependencies =
-            [ "assert"
-            , "effect"
-            , "prelude"
-            , "psci-support"
-            , "record"
-            , "typelevel-prelude"
-            ]
-      , repo =
-          "https://github.com/lsby/purescript-record-format"
-      , version =
-          "ls-v1.0.0"
-      }
-```
+先添加[上游](https://github.com/lsby/purescript-my-upstream)
 
+安装:
 ```
 spago install record-format
 ```
